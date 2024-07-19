@@ -2,6 +2,7 @@
 
 ## Descrição do Problema 
 Você foi contratado por uma empresa do ramo de varejo que está enfrentando sérios problemas de performance em um de seus aplicativos usados para pesquisar informações sobre mercadorias. A aplicação atual permite a abertura de um banco de dados armazenado em um arquivo CSV e, após a carga, permite que o usuário faça consultas às mercadorias cadastradas informando o código da mercadoria
+
 ![Texto Alternativo](https://github.com/AntonioO00/T2-ALEST/blob/main/Imagens/Aplica%C3%A7%C3%A3o.jpg)
 
 ### Problema
